@@ -15,3 +15,6 @@ function sortSentence(s: string): string {
 
   return newArr.join(" ");
 };
+
+//tempo: O(n)
+//espaco: O(n)

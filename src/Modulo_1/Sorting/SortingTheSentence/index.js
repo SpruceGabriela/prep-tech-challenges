@@ -13,3 +13,5 @@ function sortSentence(s) {
     return newArr.join(" ");
 }
 ;
+//tempo: O(n)
+//espaco: O(n)
