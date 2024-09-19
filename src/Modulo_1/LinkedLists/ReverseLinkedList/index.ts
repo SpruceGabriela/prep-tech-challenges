@@ -10,7 +10,7 @@
  * }
  */
 
-function reverseList(head: ListNode | null): ListNode | null {
+function reverseLinkedList(head: ListNode | null): ListNode | null {
   if(head === null) return null;
 
   let prev: ListNode | null = null;

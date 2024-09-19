@@ -10,7 +10,7 @@
  *     }
  * }
  */
-function reverseList(head) {
+function reverseLinkedList(head) {
     if (head === null)
         return null;
     let prev = null;
